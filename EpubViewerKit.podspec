@@ -40,7 +40,7 @@ An open source epub reader plugin written in swift
   s.dependency 'ZFDragableModalTransition', '0.6'
   s.dependency 'AEXML', '4.6.0'
   s.dependency 'FontBlaster', '5.1.1'
-  s.dependency 'RealmSwift', '5.5.1'
+  s.dependency 'RealmSwift', '10.0.0'
   
   s.ios.deployment_target = '9.0'
 end
